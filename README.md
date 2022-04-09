@@ -42,7 +42,7 @@ python .\custromRoboScript.py
 ![Old Part](/img/readme_screenshots/oldPart.png)<br>
 ![New Part](/img/readme_screenshots/newPart.png)
 8. If there is data left over as seen below, hit D-PAD Down to clear the memory manually<br>
-*This happens because the register gets updated each time you navigate the menus, including opponent configurations*
+*This happens because the register gets updated each time you navigate the menus, including opponent configurations*<br>
 ![Messy Memory](/img/readme_screenshots/messyMemory.png)<br>
 ![Clean Memory](/img/readme_screenshots/cleanMemory.png)
 
